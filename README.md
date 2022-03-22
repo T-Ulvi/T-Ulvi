@@ -1,10 +1,7 @@
  ### Hi there, I'm Ülvi Təyyarzadə 👋
   ## Front end( or React) Developer
-
-
-- 🔭 I’m currently working on Front end Development.![ExemplaryFairFeline-max-1mb](https://user-images.githubusercontent.com/96413868/159546380-077365d9-f700-4594-b42c-ef3e3aea7331.gif)
-
-
+![giphy](https://user-images.githubusercontent.com/96413868/159547142-ba8a283a-8e4b-46b0-aca2-df00926d6ab8.gif)
+- 🔭 I’m currently working on Front end Development.
 - 🌟I am interested in working on ambitious projects with positive
 people.
 - 📚 Learning new things, self driven, hard working and friendly.😃
