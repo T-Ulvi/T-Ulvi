@@ -3,7 +3,7 @@
   ## Front end( or React) Developer
 <div >
 
-<img width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> 
+ <img width="400" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> 
 
 - 🔭 I’m currently working on Front end Development.
 - 🌟I am interested in working on ambitious projects with positive people.       
